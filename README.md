@@ -18,4 +18,4 @@ We have each of our individual repositories isolated for quick workflow and test
 
 [Subgraph Repo]()
 
-[Stability Keeper}(https://github.com/AzosFinance/azos-keeper)
+[Stability Keeper](https://github.com/AzosFinance/azos-keeper)
