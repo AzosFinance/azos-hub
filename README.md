@@ -20,6 +20,8 @@ We have each of our individual code repositories isolated for quick workflow and
 
 [Stability Keeper](https://github.com/AzosFinance/azos-keeper)
 
+[Pitch Deck and LitePaper](https://github.com/AzosFinance/azos-info)
+
 ## Videos
 
 All of these videos are available from the DoraHacks BUIDL page:
