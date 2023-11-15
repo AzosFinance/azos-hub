@@ -24,6 +24,6 @@ We have each of our individual repositories isolated for quick workflow and test
 
 All of these videos are available from the DoraHacks BUIDL page:
 
-[Promo Video](https://youtu.be/BOzTIuG4W3s ) 
+[Promo Video](https://youtu.be/LUh8y7n3UJY)
 
 [Stability Keeper Video](https://youtu.be/ndDWxjQeFGs)
