@@ -27,3 +27,7 @@ All of these videos are available from the DoraHacks BUIDL page:
 [Promo Video](https://youtu.be/LUh8y7n3UJY)
 
 [Stability Keeper Video](https://youtu.be/ndDWxjQeFGs)
+
+## Sepolia Testnet
+
+User will need [Sepolia Testnet Eth](https://sepoliafaucet.com/) to transact. 
