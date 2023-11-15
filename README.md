@@ -21,3 +21,5 @@ We have each of our individual repositories isolated for quick workflow and test
 [Stability Keeper](https://github.com/AzosFinance/azos-keeper)
 
 [Promo Video](https://youtu.be/BOzTIuG4W3s )
+
+[Stability Keeper Video](https://youtu.be/ndDWxjQeFGs)
