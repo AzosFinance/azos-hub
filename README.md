@@ -16,10 +16,14 @@ We have each of our individual repositories isolated for quick workflow and test
 
 [Smart Contract Repo](https://github.com/AzosFinance/azos-protocol)
 
-[Subgraph Repo]()
+[Subgraph Repo](https://github.com/AzosFinance/azos-subgraph)
 
 [Stability Keeper](https://github.com/AzosFinance/azos-keeper)
 
-[Promo Video](https://youtu.be/BOzTIuG4W3s )
+## Videos
+
+All of these videos are available from the DoraHacks BUIDL page:
+
+[Promo Video](https://youtu.be/BOzTIuG4W3s ) 
 
 [Stability Keeper Video](https://youtu.be/ndDWxjQeFGs)
