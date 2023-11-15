@@ -24,9 +24,11 @@ We have each of our individual code repositories isolated for quick workflow and
 
 All of these videos are available from the DoraHacks BUIDL page:
 
-[Promo Video](https://youtu.be/LUh8y7n3UJY)
+[Promo Video](https://www.youtube.com/watch?v=wTx_2Tcgg-4)
 
 [Stability Keeper Video](https://youtu.be/ndDWxjQeFGs)
+
+[Application Walkthrough](https://youtu.be/W5JDe2h4ID8)
 
 ## Sepolia Testnet
 
